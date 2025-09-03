@@ -27,26 +27,3 @@ run the SVM.m
 ### Testing
 run demo.m
 
-## Citation
-If you find this work useful for your research, please cite our paper:
-```
-﻿@Article{Chen2023,
-author={Chen, Tianhai
-and Yang, Xichen
-and Li, Nengxin
-and Wang, Tianshu
-and Ji, Genlin},
-title={Underwater image quality assessment method based on color space multi-feature fusion},
-journal={Scientific Reports},
-year={2023},
-month={Oct},
-day={06},
-volume={13},
-number={1},
-pages={16838},
-issn={2045-2322},
-doi={10.1038/s41598-023-44179-3},
-url={https://doi.org/10.1038/s41598-023-44179-3}
-}
-
-```
